@@ -82,7 +82,9 @@ GEMINI\_API\_KEY=api\_key\_here
 
 SECRET\_STRING=JCJGTMATBRSHSSDRHHKSIPPP
 
-STUDENT\_EMAIL=24f2002696@ds.study.iitm.ac.in```
+STUDENT\_EMAIL=24f2002696@ds.study.iitm.ac.in
+
+```
 
 
 
@@ -186,11 +188,11 @@ llm-quiz-solver/
 
 ├── requirements.txt    # Python dependencies
 
-├── .env               # Environment variables (not in repo)
+├── .env                # Environment variables (not in repo)
 
-├── .gitignore         # Git ignore rules
+├── .gitignore          # Git ignore rules
 
-└── README.md          # This file
+└── README.md           # This file
 
 ```
 
@@ -214,15 +216,9 @@ llm-quiz-solver/
 
 
 
-IIT Madras BS Student
+\*\*IIT Madras BS Student\*\*  
 
-Email: 24f2002696@ds.study.iitm.ac.in
-
-
-
-
-
-
+Email: \[24f2002696@ds.study.iitm.ac.in](mailto:24f2002696@ds.study.iitm.ac.in)
 
 
 
